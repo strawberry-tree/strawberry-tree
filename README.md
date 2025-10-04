@@ -30,6 +30,11 @@ LG 트윈스 프로야구단을 응원하고 있습니다.
 
 ---
 
+### [핀토스 OS구현 프로젝트](https://github.com/ssumday24/pintos_week12)
+> 교육용 운영체제 PintOS의 쓰레드, 시스템 콜, 가상 메모리 함수를 직접 구현하며 운영체제 학습능력 함양
+> **크래프톤 정글 9기 팀 프로젝트**
+---
+
 ### [효율적 복습을 위한 모의고사 자동제작 서비스](https://github.com/strawberry-tree/test_maker)
 > PDF/docx 학습 자료로 맞춤형 모의고사를 자동 생성하는 에듀테크 서비스
 
