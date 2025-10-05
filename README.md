@@ -56,8 +56,8 @@ LG 트윈스 프로야구단을 응원하고 있습니다.
 ## 연락처
 
 - 📧 Email: drinkingstraw33@gmail.com
-- 📝 Blog: [기술 블로그 링크](https://velog.io/@strawberry-tree/posts)
-- 💼 Portfolio: 작업중
+- 📝 Blog: [https://velog.io/@strawberry-tree](https://velog.io/@strawberry-tree/posts)
+- 💼 Portfolio: [https://strawberry-tree.github.io](https://strawberry-tree.github.io)
 
 ---
 
