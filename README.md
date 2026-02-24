@@ -2,7 +2,8 @@
 
 Plan for the worst, hope for the best!
 
-- 💼 Portfolio: [https://strawberry-tree.github.io](https://strawberry-tree.github.io)
+- 이력서: [구글 드라이브 링크](https://drive.google.com/file/d/1IRW920OLYh4dVG_UhIj7atZKL_Ttn-mR/view?usp=drive_link)
+- 포트폴리오: [https://strawberry-tree.github.io](https://strawberry-tree.github.io)
 
 **Main Tech Stack**
 <div>
